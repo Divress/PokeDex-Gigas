@@ -1,0 +1,43 @@
+.detail-view {
+  width: 50%;
+  max-width: 270px;
+  height: 100%;
+  padding: 10px;
+  margin: 30px;
+  background-color: #8a0009;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  display: inline-block;
+}
+
+.sprite-image {
+  width: 80%;
+  max-width: 250px;
+  height: width;
+  margin: auto;
+  background-color: #ebccaa;
+  border: 15px solid #451a12;
+  border-radius: 5px;
+  color: #585858;
+}
+
+.data-wrapper {
+  width: 80%;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: #ebccaa;
+  border-radius: 5px;
+  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.22);
+  color: #451a12;
+  font-family: Times;
+}
+
+.data-name {
+  margin: 0 0 5px;
+}
+
+.data-char {
+  font-size: 13px;
+}
