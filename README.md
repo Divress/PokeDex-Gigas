@@ -1,3 +1,10 @@
+This project is an exercise to practice programming in React and pagination. Based off the awesome tutorial https://blog.cloudboost.io/lets-build-a-pokedex-with-react-part-1-e1ba0b9387a7, it is also a challenge to see if I can create a pokedex that references the convention of old botanical manuscripts. 
+
+If facing permission issues, run chmod +x node_modules/.bin/react-scripts and open http://localhost:3000/ manually.
+
+--------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
